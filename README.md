@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0sc4r4cm
-- 👀 I’m interested in Data Science & Analytics in Social Sciences
-- 🌱 I’m currently learning ML, Python, SQL, etc
-- 📫 How to reach me: oscar.coronad@usach.cl
+- 👋 Greetings. I'm Oscar :D
+- 👀 I’m interested in Data Science, Analytics, Statistics and Social Sciences.
+- 🌱 I’m currently learning Google Cloud Certifications (ML Engineer Path, Data Analyst Path)
+- 📫 How to reach me: oscar.coronado@usach.cl
